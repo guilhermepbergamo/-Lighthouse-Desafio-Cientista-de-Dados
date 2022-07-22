@@ -1,0 +1,16 @@
+No projeto foram utilizados os seguintes pacotes:
+
+pandas
+numpy
+seaborn
+plotly.express
+matplotlib.pyplot
+plotly.subplots import make_subplots
+plotly.graph_objects
+plotly.figure_factory
+sklearn.metrics
+sklearn
+sklearn.linear_model
+sklearn.preprocessing
+
+Todos estão descritos com mais detalhes no jupyter notebook deste repositório.
